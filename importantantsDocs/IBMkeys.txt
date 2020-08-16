@@ -1,0 +1,19 @@
+* Watson Asisstant IBM cloud.
+- Clave de API key:
+d91ZtuJ5a1RsKJotzG06iV4drXrNIIt0hBBFqWZRIH4o
+
+- URL :
+https://api.us-south.assistant.watson.cloud.ibm.com/instances/16a2e35e-097a-42ae-98d1-440af0de74ab
+
+- Skill name:Alestra-Oficial
+
+- Skill ID:0ea97df8-aebb-4a47-bb70-2e9c08a99d93
+
+-Asisstant ID: f4e02531-be51-4aa8-a6f1-7ab34c0b99b8
+
+-Asisstant URL: https://api.us-south.assistant.watson.cloud.ibm.com/instances/16a2e35e-097a-42ae-98d1-440af0de74ab/v2/assistants/f4e02531-be51-4aa8-a6f1-7ab34c0b99b8/sessions
+
+
+IBM Cloud:
+-herramienta IBM Cloud Continuous Delivery
+
